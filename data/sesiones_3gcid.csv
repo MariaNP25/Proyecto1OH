@@ -1,0 +1,16 @@
+id_sesion,asignatura,tipo,grupo,profesor,duracion,tipo_espacio
+OH_TEO,OH,Teoria,3GCID_G1,P_OH,2,Teoria
+OH_LAB_41,OH,Laboratorio,3GCID_41,P_OH,2,Laboratorio
+OH_LAB_42,OH,Laboratorio,3GCID_42,P_OH,2,Laboratorio
+BD_TEO,BD,Teoria,3GCID_G1,P_BD,2,Teoria
+BD_LAB_41,BD,Laboratorio,3GCID_41,P_BD,2,Laboratorio
+BD_LAB_42,BD,Laboratorio,3GCID_42,P_BD,2,Laboratorio
+BD2_TEO,BD2,Teoria,3GCID_G1,P_BD2,2,Teoria
+BD2_LAB_41,BD2,Laboratorio,3GCID_41,P_BD2,2,Laboratorio
+BD2_LAB_42,BD2,Laboratorio,3GCID_42,P_BD2,2,Laboratorio
+AA2_TEO,AA2,Teoria,3GCID_G1,P_AA2,2,Teoria
+AA2_LAB_41,AA2,Laboratorio,3GCID_41,P_AA2,2,Laboratorio
+AA2_LAB_42,AA2,Laboratorio,3GCID_42,P_AA2,2,Laboratorio
+ASO_TEO,ASO,Teoria,3GCID_G1,P_ASO,2,Teoria
+ASO_LAB_41,ASO,Laboratorio,3GCID_41,P_ASO,2,Laboratorio
+ASO_LAB_42,ASO,Laboratorio,3GCID_42,P_ASO,2,Laboratorio

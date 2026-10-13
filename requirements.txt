@@ -1,0 +1,5 @@
+numpy>=2.0.0
+pandas>=2.2.0
+matplotlib>=3.10.0
+ortools>=9.10.0
+pypdf>=5.0.0
